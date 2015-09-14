@@ -5,4 +5,4 @@ Kısa yollari kendine yönlendirir.
 
 
 Breaks all files, shortcuts in desktop. Replaces with random codes.
-Redirect the shortcuts to itself
+Redirects the shortcuts to itself
